@@ -1,5 +1,5 @@
 # Get-Android-OS-Information
-Get Android OS Information with Unity. No java required
+Get Android OS Information with Unity. No Java required.
 
 This is a C# port of the Android's Java ```Build.VERSION``` class
 
